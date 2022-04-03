@@ -18,8 +18,8 @@ public class Agencia {
 		this.atendentes = new Atendente[tAtendentes];
 
 		// POR PADRAO, A AGENCIA COMECA COM DOIS ATENDENTES
-		this.atendentes[0] = new Atendente("Isabel", this);
-		this.atendentes[1] = new Atendente("Isabelli", this);
+		this.atendentes[0] = new Atendente("Simara", this);
+		this.atendentes[1] = new Atendente("Soraia", this);
 	}
 
 
