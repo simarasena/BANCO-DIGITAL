@@ -51,7 +51,7 @@ public class Atendente
 
   private boolean addCliente(String cpf, String nome, String telefone, String email, String senha)
   {
-    // AQUI EU FACO O CADASTRO DO CLIENTE
+    // AQUI REALIZO O CADASTRO DO CLIENTE
     return false;
   }
 
@@ -73,7 +73,7 @@ public class Atendente
 
 
   private boolean changeInfo(Cliente cte, String novoValor, String generic) {
-    /* AQUI A GENTE USA PARA ALTERAR ALGUMA INFORMACAO DO USUARIO, TIPO: EMAIL, TELEFONE...
+    /* ESTE CAMPO FOI UTILIZADO PARA ALTERAR ALGUMA INFORMACAO DO USUARIO, COMO POR EXEMPLO: EMAIL, TELEFONE...
        generic CONTEM O VALOR QUE DESEJAMOS ALTERAR. EX: SE generic == "telefone" ENTAO
        O TELEFONE Q ERA ALTERADO */
       return false;
